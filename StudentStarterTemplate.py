@@ -1,10 +1,5 @@
 """This is the start template that the students will be given
 
-
-MAYBE WE SHOULD BREAK THIS DOWN MORE SO THEY HAVE TO CREATE THE CONSTRUCTOR CLASS? OR EVEN THE
-WHOLE CLASS IN GENERAL?
-
-
 First, they will start with a simple takeoff and land commands and then basic movement
 
 Then, we will introduce how to create a key listener and some code snippets so they can

@@ -7,10 +7,10 @@ The first session teaches students about using APIs and the fundamentals of OOP.
 
 
 ## Session 2 - Drone WiFi Deauthentication Attacks
-The second session teaches students about network vulnerabilities, where the goal is to create python script carry out WiFi deauth attacks.
+The second session teaches students about network vulnerabilities, where the goal is to create a python script to carry out WiFi deauth attacks.
 
 The deauth script has these functionalities:
-- Detect nearby data packets being sent from the drones to extract drone AP information
+- Detecting nearby data packets being sent from the drones to extract drone AP information
 - Using the bssid and channel to find any stationed/client devices on the drone access point
-- Sending deauthentication packets to the drone, so all client devices are disconnnected
+- Sending deauthentication packets to the access point, so all client devices are disconnected
 - Connecting to the drone's access point and using APIs to take control of the drone
